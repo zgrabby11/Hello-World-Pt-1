@@ -13,8 +13,8 @@ main {
 
 .masthead {
     background: no-repeat bottom / cover url('Images/laptop.jpg');
-    background-position: center;
-    height: 350px;
+    background-position: center bottom;
+    height: 400px;
     border-radius: 20px;
 }
 
