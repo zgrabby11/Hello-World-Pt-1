@@ -20,6 +20,7 @@ main {
 
 .details {
     display: flex;
+    padding: 10px;
 }
 
 .details section{
