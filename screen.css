@@ -1,1 +1,9 @@
-#Background and Page Formatting
+/*Background and Page Formatting*/
+body {
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 100%;
+}
