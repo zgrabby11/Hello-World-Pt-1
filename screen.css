@@ -14,7 +14,7 @@ main {
 .masthead {
     background: no-repeat bottom / cover url('Images/laptop.jpg');
     background-position: center;
-    height: 250px;
+    height: 350px;
     border-radius: 20px;
 }
 
@@ -26,7 +26,8 @@ main {
 .details section{
     flex-grow: 1;
     flex-basis: 0;
-    background: #E9EAEC;
+    background: #eee;
+    padding: 20px;
     border-radius: 20px;
     margin-top: 25px;
 }
