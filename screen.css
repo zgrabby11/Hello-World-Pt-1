@@ -26,6 +26,7 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #d1d1d1;
+    padding: 20px;
     border-radius: 20px;
     margin-top: 25px;
 }
